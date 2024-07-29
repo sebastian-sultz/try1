@@ -1,2 +1,2 @@
 console.log("adarsh")
-console.log("Tripathi")
+console.log("Tri")
